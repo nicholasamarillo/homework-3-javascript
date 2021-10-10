@@ -20,3 +20,6 @@ To test the features of the website:
 4. See if the password on the page displays and meets all of your criteria.
 
 If all tests are passed, then HOORAY!
+
+LIVE LINK TO THE WEBSITE: https://nicholasamarillo.github.io/homework-3-javascript/
+
