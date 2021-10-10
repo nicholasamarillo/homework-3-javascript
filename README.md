@@ -23,3 +23,4 @@ If all tests are passed, then HOORAY!
 
 LIVE LINK TO THE WEBSITE: https://nicholasamarillo.github.io/homework-3-javascript/
 
+![](/assets/finsihed_hw3.png "Random Password Generator")
